@@ -1,0 +1,14 @@
+[
+    {
+        "Nome": "camarao",
+        "Carboidratos": 60.0
+    },
+    {
+        "Nome": "macarrao",
+        "Carboidratos": 400.0
+    },
+    {
+        "Nome": "uva",
+        "Carboidratos": 560.0
+    }
+]
